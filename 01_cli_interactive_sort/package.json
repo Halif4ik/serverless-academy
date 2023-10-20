@@ -1,0 +1,7 @@
+{
+  "name": "01_cli_interactive_sort",
+  "packageManager": "yarn@3.6.4",
+  "scripts": {
+    "first": "node  --experimental-modules 1.mjs"
+  }
+}
