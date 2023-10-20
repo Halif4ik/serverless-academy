@@ -1,0 +1,10 @@
+{
+  "name": "02_CLI_PRIMITIVE_DB",
+  "packageManager": "yarn@3.6.4",
+  "scripts": {
+    "second": "node  --experimental-modules 2.mjs"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}

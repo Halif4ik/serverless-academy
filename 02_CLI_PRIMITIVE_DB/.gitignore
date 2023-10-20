@@ -4,3 +4,6 @@
 /dist/routs
 /dist/index.js
 .idea
+.yarn/cache
+.yarn
+/.yarn/
