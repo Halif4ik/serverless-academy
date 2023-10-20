@@ -1,0 +1,9 @@
+{
+  "name": "serverless-academy",
+  "version": "1.0.0",
+  "packageManager": "yarn@3.6.4",
+  "type": "module",
+  "scripts": {
+    "first": "node  --experimental-modules 01_cli_interactive_sort/1.mjs"
+  }
+}
